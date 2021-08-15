@@ -1,0 +1,17 @@
+{
+  "reactions": {
+    "water+sodium": {
+      "reaction_rate": 10,
+      "product": [
+        "sodium_hydroxide",
+        "hydrogen_ion"
+      ]
+    },
+    "hydrogen_ion+hydrogen_ion": {
+      "reaction_rate": 2,
+      "product": [
+        "hydrogen"
+      ]
+    }
+  }
+}
